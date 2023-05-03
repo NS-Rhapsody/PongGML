@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/3108ddb1-7068-4bcb-8db7-ccddf743ffff/edit",
+  "option_operagx_game_name": "PongJFAGF",
+  "option_operagx_guid": "3108ddb1-7068-4bcb-8db7-ccddf743ffff",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_next_version": "0.0.0.2",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "4794209e-dae5-46d5-b90c-702f3a498e6f",
+  "option_operagx_team_name": "NSRhapsody studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "0.0.0.1",
+}
